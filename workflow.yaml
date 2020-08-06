@@ -173,5 +173,5 @@ Resources:
                   "End": true
               }
           }
-      }
+        }
       RoleArn: arn:aws:iam::718981880495:role/service-role/AmazonSageMaker-ExecutionRole-20200511T122445
